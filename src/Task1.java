@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 public class Task1 {
-    int a;
-    int b;
 
     public static void main(String[] params){
         System.out.println("Введите значение a");
